@@ -1,4 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Todo List
+
+Created to practice form use in React.
+
+### Components:
+
+App - this component renders the TodoList component  
+
+TodoList - this component renders the NewTodoForm component and renders the list of Todo components. 
+
+NewTodoForm - this component renders a form with one text input for the task to be created. When this form is submitted, a new Todo component is created. 
+
+Todo- this component display a div swith the task of the todo. For each Todo component, there is also a button with the text “X” that when clicked, removes the todo.
 
 ## Available Scripts
 
